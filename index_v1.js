@@ -15,3 +15,5 @@ const n = 14;
 const o = 15;
 const p = 16;
 const q = 17;
+const r = 18;
+const s = 19;
